@@ -1,0 +1,10 @@
+C:\Users\Serhi\Desktop\Git\CRM\CRM\bin\Debug\CRM.exe.config
+C:\Users\Serhi\Desktop\Git\CRM\CRM\bin\Debug\CRM.exe
+C:\Users\Serhi\Desktop\Git\CRM\CRM\bin\Debug\CRM.pdb
+C:\Users\Serhi\Desktop\Git\CRM\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+C:\Users\Serhi\Desktop\Git\CRM\CRM\obj\Debug\CRM.Form1.resources
+C:\Users\Serhi\Desktop\Git\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+C:\Users\Serhi\Desktop\Git\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+C:\Users\Serhi\Desktop\Git\CRM\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\Serhi\Desktop\Git\CRM\CRM\obj\Debug\CRM.exe
+C:\Users\Serhi\Desktop\Git\CRM\CRM\obj\Debug\CRM.pdb
